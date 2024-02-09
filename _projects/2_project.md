@@ -2,7 +2,7 @@
 layout: page
 title: Flocking on street networks
 description: Model social movements
-img: assets/img/publication_preview/scatter-1.jpg
+img: assets/img/DR.jpg
 importance: 2
 category: Social Movements
 giscus_comments: true
@@ -13,6 +13,10 @@ giscus_comments: true
 The main question I tackle is the following : Can an impacting urban network disruption emerge from a simple and decentralized collective action ?
 
 In other words, imagine people following the same walking rules. Can they spontaneously gather and move in mobile groups that will block roads and disturb traffic? Have I aroused your curiosity ? Then you can download my intership thesis presenting our first investigations regarding the quantitative impact of protests. Our job has mainly been to establish the state of the art concerning this question. More precisly, we connected it with an already existing litterature regarding random walks and city models.
+
+
+We get those ![results](assets/img/publication_preview/scatter-1.jpg)
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -2,7 +2,7 @@
 layout: page
 title: Internship
 description: Preliminaries to studying new form of protests
-img:
+img: assets/img/parisdiscr.png
 importance: 3
 category: Social Movements
 ---
