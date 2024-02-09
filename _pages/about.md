@@ -23,10 +23,11 @@ social: true # includes social icons at the bottom of the page
 ## Hi folks, and welcome ! 🦊
 
 I am doing a PhD in computer science at Sorbonne University, under the supervision of [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/) with the [Complex Networks](https://www-complexnetworks.lip6.fr/~latapy/) team.
-This website is dedicated to **science, social movements**, and all sorts of ideas !
+This website is dedicated to my work on **science, social movements**, and all sorts of ideas !
 
 
 #### Focus on my research
 
 Hold on ! "*Social movements*" and "*Science*" ? What's the link ?
-My main interest is an interdisciplinary one : I intend to use skills from different fields in order to tackle questions at the edges of thoses fields. Concretely, I model a city as a complex network. I focus on pedestrian dynamics in cities, using tools from graph theory, game theory and statistical physics, to measure the impact of a given protest or demonstration.
+
+Well, my main interest is an interdisciplinary one : I use skills from different fields in order to study events such as protests or demonstrations. I model a city as a complex network and activists as biased random walkers. Then tools from graph theory, game theory and statistical physics, allow me to measure the impact of a given action.
