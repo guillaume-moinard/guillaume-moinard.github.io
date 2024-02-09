@@ -2,7 +2,7 @@
 layout: page
 title: MvSR
 description: A new symbolic regression approach to study finance and traffic datasets
-img: assets/img/market_plot.pdf
+img: assets/img/publication_preview/market_plot.pdf
 importance: 1
 category: work
 related_publications: true
