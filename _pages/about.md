@@ -30,9 +30,3 @@ This website is dedicated to **science, social movements**, and all sorts of ide
 
 Hold on ! "*Social movements*" and "*Science*" ? What's the link ?
 My main interest is an interdisciplinary one : I intend to use skills from different fields in order to tackle questions at the edges of thoses fields. Concretely, I model a city as a complex network. I focus on pedestrian dynamics in cities, using tools from graph theory, game theory and statistical physics, to measure the impact of a given protest or demonstration.
-
-####  A glimpse at my work
-The main question we tackle is the following : Can an impacting urban network disruption emerge from a simple and decentralized collective action ?
-
-In other words, imagine people following the same walking rules. Can they spontaneously gather and move in mobile groups that will block roads and disturb traffic?
-Have I aroused your curiosity ? Then you can download my intership thesis presenting our first investigations regarding the quantitative impact of protests. Our job has mainly been to establish the state of the art concerning this question. More precisly, we connected it with an already existing litterature regarding random walks and city models.
