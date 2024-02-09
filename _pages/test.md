@@ -3,6 +3,7 @@ layout: page
 title: test
 permalink: /test/
 nav: true
+nav_order: 4
 
 ---
 
