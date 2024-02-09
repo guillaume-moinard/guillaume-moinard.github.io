@@ -26,12 +26,12 @@ I am doing a PhD in computer science at Sorbonne University, under the supervisi
 This website is dedicated to **science, social movements**, and all sorts of ideas !
 
 
-### Focus on my research
+#### Focus on my research
 
 Hold on ! "*Social movements*" and "*Science*" ? What's the link ?
 My main interest is an interdisciplinary one : I intend to use skills from different fields in order to tackle questions at the edges of thoses fields. Concretely, I model a city as a complex network. I focus on pedestrian dynamics in cities, using tools from graph theory, game theory and statistical physics, to measure the impact of a given protest or demonstration.
 
-##  A glimpse at my work
+####  A glimpse at my work
 The main question we tackle is the following : Can an impacting urban network disruption emerge from a simple and decentralized collective action ?
 
 In other words, imagine people following the same walking rules. Can they spontaneously gather and move in mobile groups that will block roads and disturb traffic?
