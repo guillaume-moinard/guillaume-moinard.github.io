@@ -7,7 +7,7 @@ importance: 3
 category: Social Movements
 ---
 
-Here is my [internship thesis](/assets/pdf/Stage_PCS_Guillaume_Moinard-4)
+Here is my [internship thesis](/assets/pdf/Stage_PCS_Guillaume_Moinard-4.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
