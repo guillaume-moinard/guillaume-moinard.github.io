@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>LIP6</a>. name AT surname.lip6.fr  # Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.lip6.fr/'>LIP6</a>. name AT surname.lip6.fr  # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -22,13 +22,13 @@ social: true # includes social icons at the bottom of the page
 
 ## Hi folks ! And welcome ! 🦊
 
-I am a Ph.D. student in the LIP6 at Sorbonne University, under the supervision of Matthieu Latapy with the Complex Networks team.
-This website is dedicated to science, social movements, and all sorts of ideas !
+I am a Ph.D. student in the LIP6 at Sorbonne University, under the supervision of [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/) with the [Complex Networks](https://www-complexnetworks.lip6.fr/~latapy/) team.
+This website is dedicated to **science, social movements**, and all sorts of ideas !
 
 
-## Focus on my research
+## Focus on my research 🔥
 
-Hold on ! "Social movements" and "Science" ? What's the link ?
+Hold on ! "*Social movements*" and "*Science*" ? What's the link ?
 Well, my main interest is an interdisciplinary one : I intend to use skills from different fields in order to tackle questions at the edges of thoses fields. Concretely, I model a city as a complex network. I focus on pedestrian dynamics in cities, using tools from graph theory, game theory and statistical physics, to measure the impact of a given protest or demonstration.
 
 ##  A glimpse at my work 📖
