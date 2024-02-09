@@ -2,6 +2,7 @@
 layout: page
 title: test
 permalink: /test/
+nav: true
 
 ---
 
