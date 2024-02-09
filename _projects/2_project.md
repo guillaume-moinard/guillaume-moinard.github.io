@@ -2,24 +2,17 @@
 layout: page
 title: Flocking on street networks
 description: Model social movements
-img: assets/img/publication_preview/scatterfinal.pdf
+img: assets/img/publication_preview/scatter-1.jpg
 importance: 2
-category: work
+category: Social Movements
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## A glimpse at my work 📖
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The main question I tackle is the following : Can an impacting urban network disruption emerge from a simple and decentralized collective action ?
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In other words, imagine people following the same walking rules. Can they spontaneously gather and move in mobile groups that will block roads and disturb traffic? Have I aroused your curiosity ? Then you can download my intership thesis presenting our first investigations regarding the quantitative impact of protests. Our job has mainly been to establish the state of the art concerning this question. More precisly, we connected it with an already existing litterature regarding random walks and city models.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

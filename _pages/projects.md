@@ -5,7 +5,7 @@ permalink: /projects/
 description: My research and personnal projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Social Movements, Collaborations, Personnal]
 horizontal: false
 ---
 

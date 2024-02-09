@@ -1,26 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Materials for courses and tips for students (and anyone doing research).
 nav: true
 nav_order: 6
 ---
 
-# Courses
-## Material 📖
+# Courses 📖
+## material
 - Python
 - Algorithm
 
-## Videos
+## videos
 - Computerphile
-
+- Science Étonnante
 
 # Tools
 
-## For studies
+
 - Obsidian
-
-
-## For research
 - Litmaps

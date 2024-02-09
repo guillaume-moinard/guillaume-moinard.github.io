@@ -2,17 +2,22 @@
 layout: page
 title: MvSR
 description: A new symbolic regression approach to study finance and traffic datasets
-img: assets/img/publication_preview/market_plot.pdf
+img: assets/img/publication_preview/market-1.jpg
 importance: 1
-category: work
+category: Collaborations
 related_publications: true
 ---
 
-## A glimpse at my work 📖
+## MvSR
+The Multi-View Symbolic Regression is a new approach to symbolic regression algorithms.
 
-The main question I tackle is the following : Can an impacting urban network disruption emerge from a simple and decentralized collective action ?
 
-In other words, imagine people following the same walking rules. Can they spontaneously gather and move in mobile groups that will block roads and disturb traffic? Have I aroused your curiosity ? Then you can download my intership thesis presenting our first investigations regarding the quantitative impact of protests. Our job has mainly been to establish the state of the art concerning this question. More precisly, we connected it with an already existing litterature regarding random walks and city models.
+
+## Econophysics
+
+Now we apply this algorithm to finance data. The goal is to propose bettre parametric functions than those proposed in the field of econophysics.
+
+
 
 
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. student in <a href='https://www.lip6.fr/'>LIP6</a> #. name AT surname.lip6.fr  # Address. Contacts. Moto. Etc.
 
@@ -26,7 +26,6 @@ I am doing a PhD in computer science at Sorbonne University, under the supervisi
 This website is dedicated to my work on **science, social movements**, and all sorts of ideas !
 
 
-#### Focus on my research
 
 Hold on ! "*Social movements*" and "*Science*" ? What's the link ?
 
