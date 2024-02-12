@@ -1,5 +1,5 @@
 {
-  "basics": {
+"basics": {
     "name": "Guillame Moinard",
     "label": "PhD Student",
     "image": "",
@@ -16,26 +16,20 @@
       "highlights": ["Complex networks, Social movements, Agent-based modeling"]
     }
   ],
+
   "education": [
     {
       "institution": "Sorbonne University",
-      "location": "Paris, France",
+      "location": "Paris France",
       "area": "Physics of Complex Systems",
       "studyType": "Master Degree",
       "startDate": "2021-09-01",
       "endDate": "2022-07-01",
       "score": "16",
-      "courses": ["Graph Theory", "Statistical Physics", "Agent-based modeling", "Machine Learning", "Game Theory"]
+      "courses": ["Graph Theory", "Statistical Physics", "Agent-based modeling", "Machine Learning", "Game Theory"],
     }
   ],
-  "awards": [
-    {
-      "title": "Concours d'éloquence",
-      "date": "2022-03-01",
-      "awarder": "Connectom in Science",
-      "summary": "I won the first prize of the Concours d'éloquence organized by Connectom in Science. I had to defend positions regarding general questions about science such as "Is Science always good?" in front of a large audience."
-    }
-  ],
+
   "skills": [
         {
         "name": "Programming",
@@ -64,5 +58,5 @@
       "language": "Italian",
       "fluency": "Basic",
       "icon": ""}
-  ]
+  ],
 }
