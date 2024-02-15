@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 # Courses 📖
-> [!cite] You never finish lecture notes, you just give up.
+> "You never finish lecture notes, you just give up."
+>
 > *Eitant Tadmor*
 
 ## material

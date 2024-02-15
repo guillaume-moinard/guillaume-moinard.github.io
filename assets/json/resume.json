@@ -1,12 +1,12 @@
 {
-"basics": [
+"basics":
     {
       "name": "Guillame Moinard",
       "label": "PhD Student",
       "image": "",
       "email": "guill****@moi****.com",
       "summary": "",
-    }],
+    },
   "work": [
     {
       "name": "LIP6, Sorbonne University",
@@ -25,7 +25,7 @@
       "studyType": "Master Degree",
       "startDate": "2021-09-01",
       "endDate": "2022-07-01",
-      "score": "16",
+      "score": 16,
       "courses": ["Graph Theory", "Statistical Physics", "Agent-based modeling", "Machine Learning", "Game Theory"],
     }
   ],
@@ -58,7 +58,8 @@
             "C",
             "Shell",
             "LateX",
-            "Linux",
+            "Linux"
+        ]
                 }
   ],
   "languages": [
@@ -71,7 +72,7 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
     {
       "language": "Italian",
       "fluency": "Basic",
@@ -97,7 +98,7 @@
       "Won award at AIHacks 2016"
     ],
     "url": "https://project.com/"
-  }]
+  }],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
