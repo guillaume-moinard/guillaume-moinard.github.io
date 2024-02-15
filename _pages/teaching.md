@@ -10,7 +10,7 @@ nav_order: 6
 # Courses 📖
 > "You never finish lecture notes, you just give up."
 >
-> *Eitant Tadmor*
+> *Eitan Tadmor*
 
 ## material
 - Python
