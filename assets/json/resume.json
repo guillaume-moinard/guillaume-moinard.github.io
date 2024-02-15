@@ -1,11 +1,12 @@
 {
-"basics": {
-    "name": "Guillame Moinard",
-    "label": "PhD Student",
-    "image": "",
-    "email": "guill****@moi****.com",
-    "summary": "",
-  },
+"basics": [
+    {
+      "name": "Guillame Moinard",
+      "label": "PhD Student",
+      "image": "",
+      "email": "guill****@moi****.com",
+      "summary": "",
+    }],
   "work": [
     {
       "name": "LIP6, Sorbonne University",
@@ -16,17 +17,6 @@
       "highlights": ["Complex networks, Social movements, Agent-based modeling"]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-    }],
   "education": [
     {
       "institution": "Sorbonne University",
@@ -108,4 +98,16 @@
     ],
     "url": "https://project.com/"
   }]
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+    }],
+
 }

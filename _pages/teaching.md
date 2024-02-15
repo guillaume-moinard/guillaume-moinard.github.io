@@ -8,14 +8,15 @@ nav_order: 6
 ---
 
 # Courses 📖
-> You never finish lecture notes, you just give up.
+> [!cite] You never finish lecture notes, you just give up.
 > *Eitant Tadmor*
+
 ## material
 - Python
 - Algorithm
 
 ## videos
-- Computerphile, excellent videos on computer science concepts and algorithms. The one on (binary search)[https://www.youtube.com/watch?v=hDn8iOc30Tk] illustrates what I showed in the Algorithm class.
+- Computerphile, excellent videos on computer science concepts and algorithms. The one on [binary search](https://www.youtube.com/watch?v=hDn8iOc30Tk) illustrates what I showed in the Algorithm class.
 - Science Étonnante
 
 # Tools
