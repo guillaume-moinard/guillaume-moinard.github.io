@@ -9,9 +9,9 @@
   "work": [{
     "name": "LIP6",
     "position": "Doctorant",
-    "url": "https://company.com",
-    "startDate": "2022-10-01",
-    "endDate": "2025-10-01",
+    "url": "https://lip6.fr",
+    "startDate": "2022",
+    "endDate": "2025",
     "summary": "I study the dynamics of social movements on complex networks. I use agent-based modeling and graph theory to understand the emergence of collective behaviors.",
     "highlights": [
       "Flocking on graphs",
@@ -35,8 +35,8 @@
     "location": "Paris France",
     "area": "Physics of Complex Systems",
     "studyType": "Master Degree",
-    "startDate": "2021-09-01",
-    "endDate": "2022-07-01",
+    "startDate": "2021",
+    "endDate": "2022",
     "score": "Très Bien",
     "courses": [
         "Graph Theory",
