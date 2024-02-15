@@ -12,7 +12,11 @@
     "startDate": "2022-10-01",
     "endDate": "2025-10-01",
     "summary": "I study dynamical processes on complex networks, and more specifically the impact of social movements on street networks.",
-      "highlights": ["Complex networks", "Social movements", "Abased modeling"]
+    "highlights": [
+        "Complex networks",
+        "Social movements",
+        "Agent-based modeling",
+    ]
   }],
   "education": [{
     "institution": "Sorbonne University",
@@ -22,7 +26,13 @@
     "startDate": "2021-09-01",
     "endDate": "2022-07-01",
     "score": "Très Bien",
-    "courses": ["Graph Theory", "Statistical Physics", "Agent-based modeling", "Machine Learning", "Game Theory"]
+    "courses": [
+        "Graph Theory",
+        "Statistical Physics",
+        "Agent-based modeling",
+        "Machine Learning",
+        "Game Theory"
+    ]
   }],
   "skills": [{
     "name": "Programming",
