@@ -1,21 +1,24 @@
 {
   "basics": {
     "name": "Guillame Moinard",
-      "label": "PhD Student",
+      "label": "PhD Student in Computer Science",
       "image": "",
       "email": "guill****.moi****@lip6.fr",
       "summary": ""
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "LIP6, Sorbonne University",
+    "position": "Doctorant",
+    url: "https://www.lip6.fr/",
+    "startDate": "2022-10-01",
+    "endDate": "2025-10-01",
+    "summary": "I study dynamical processes on complex networks, and more specifically the impact of social movements on street networks.",
     "highlights": [
-      "Started the company"
+        "Complex networks",
+        "Social movements",
+        "Agent-based modeling",
     ]
+
   }],
   "volunteer": [{
     "organization": "Organization",

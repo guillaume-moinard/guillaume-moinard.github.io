@@ -8,7 +8,8 @@
     },
   "work": [{
     "name": "LIP6, Sorbonne University",
-    "position": "PhD Student in Computer Science",
+    "position": "Doctorant",
+    url: "https://www.lip6.fr/",
     "startDate": "2022-10-01",
     "endDate": "2025-10-01",
     "summary": "I study dynamical processes on complex networks, and more specifically the impact of social movements on street networks.",
