@@ -1,69 +1,59 @@
 {
   "basics": {
-      "name": "Guillame Moinard",
-      "label": "PhD Student",
-      "image": "",
-      "email": "guill****@moi****.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
-      "location": {
-          "address": "2712 Broadway St",
-          "postalCode": "CA 94115",
-          "city": "San Francisco",
-          "countryCode": "US",
-          "region": "California"
+    "name": "John Doe",
+    "label": "Programmer",
+    "image": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [{
       "network": "Twitter",
       "username": "john",
       "url": "https://twitter.com/john"
     }]
-    },
+  },
   "work": [{
-    "name": "LIP6, Sorbonne University",
-    "position": "PhD Student in Computer Science",
-    "startDate": "2022-10-01",
-    "endDate": "2025-10-01",
-    "summary": "I study dynamical processes on complex networks, and more specifically the impact of social movements on street networks.",
+    "name": "Company",
+    "position": "President",
+    "url": "https://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description…",
     "highlights": [
-        "Complex networks",
-        "Social movements",
-        "Agent-based modeling",
+      "Started the company"
     ]
   }],
   "education": [{
-    "institution": "Sorbonne University",
-    "location": "Paris France",
-    "area": "Physics of Complex Systems",
-    "studyType": "Master Degree",
-    "startDate": "2021-09-01",
-    "endDate": "2022-07-01",
-    "score": "Très Bien",
+    "institution": "University",
+    "url": "https://institution.com/",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "score": "4.0",
     "courses": [
-        "Graph Theory",
-        "Statistical Physics",
-        "Agent-based modeling",
-        "Machine Learning",
-        "Game Theory"
+      "DB1101 - Basic SQL"
     ]
   }],
   "skills": [{
-    "name": "Programming",
+    "name": "Web Development",
     "level": "Master",
-    "icon": "fa-solid fa-hashtag",
     "keywords": [
-            "Python",
-            "C",
-            "Shell",
-            "LateX",
-            "Linux"
-        ]
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
   }],
-  "languages": [
-    {
-      "language": "French",
-      "fluency": "Native speaker",
-    }
-  ]
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
 }
