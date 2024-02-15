@@ -12,9 +12,11 @@
     "url": "https://company.com",
     "startDate": "2022-10-01",
     "endDate": "2025-10-01",
-    "summary": "Description…",
+    "summary": "I study the dynamics of social movements on complex networks. I use agent-based modeling and graph theory to understand the emergence of collective behaviors.",
     "highlights": [
-      "Started the company"
+      "Flocking on graphs",
+      "Complex networks",
+      "Social mouvements"
     ]
   }],
   "volunteer": [{
