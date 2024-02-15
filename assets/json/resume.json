@@ -12,7 +12,7 @@
     "startDate": "2022-10-01",
     "endDate": "2025-10-01",
     "summary": "I study dynamical processes on complex networks, and more specifically the impact of social movements on street networks.",
-      "highlights": ["Complex networks, Social movements, Agent-based modeling"]
+      "highlights": ["Complex networks", "Social movements", "Abased modeling"]
   }],
   "education": [{
     "institution": "Sorbonne University",
@@ -36,8 +36,21 @@
             "Linux"
         ]
   }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }]
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "Basic",
+      "icon": ""
+      }
+  ]
 }
