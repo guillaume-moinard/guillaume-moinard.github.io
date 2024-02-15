@@ -29,15 +29,19 @@
     ]
   }],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
+    "institution": "Sorbonne University",
+    "location": "Paris France",
+    "area": "Physics of Complex Systems",
+    "studyType": "Master Degree",
+    "startDate": "2021-09-01",
+    "endDate": "2022-07-01",
+    "score": "Très Bien",
     "courses": [
-      "DB1101 - Basic SQL"
+        "Graph Theory",
+        "Statistical Physics",
+        "Agent-based modeling",
+        "Machine Learning",
+        "Game Theory"
     ]
   }],
   "awards": [{
@@ -60,13 +64,16 @@
     "summary": "Description…"
   }],
   "skills": [{
-    "name": "Web Development",
+    "name": "Programming",
     "level": "Master",
+    "icon": "fa-solid fa-hashtag",
     "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
+            "Python",
+            "C",
+            "Shell",
+            "LateX",
+            "Linux"
+        ]
   }],
   "languages": [
     {
