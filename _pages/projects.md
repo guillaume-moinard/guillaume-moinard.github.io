@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: My research and personnal projects.
+description: My research projects.
 nav: true
 nav_order: 3
-display_categories: [Social Movements, Collaborations, I Surpervised, Personnal]
+display_categories: [Social Movements, Collaborations, I Surpervised]
 horizontal: false
 ---
 
