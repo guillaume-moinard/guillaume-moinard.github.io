@@ -2,11 +2,11 @@
 ---
 layout: page
 title: Protests on Graphs
-description: A new symbolic regression approach to study finance and traffic datasets
+description: A program in C to simulate walks on city networks
 img: assets/img/publication_preview/market-1.jpg
 importance: 1
 category: I Supervised
 ---
 
 ## The POG project
-The Multi-View Symbolic Regression is a new approach to symbolic regression algorithms.
+The work on this companion site : https://k-avi.github.io/protesting_on_graphs/
