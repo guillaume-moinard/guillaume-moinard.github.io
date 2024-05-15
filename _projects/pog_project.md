@@ -5,7 +5,7 @@ title: Protests on Graphs
 description: A program in C to simulate walks on city networks
 img: assets/img/publication_preview/market-1.jpg
 importance: 1
-category: I Supervised
+category: Collaborations
 ---
 
 ## The POG project
