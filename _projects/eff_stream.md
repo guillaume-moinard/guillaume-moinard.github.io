@@ -1,9 +1,9 @@
 ---
 layout: page
-title:
+title: Linkstream efficiency
 description: A project by L3 students to measure impact of attacks on networks
 img: assets/img/parisdiscr.png
-importance: 4
+importance: 2
 category: I Supervised
 ---
 
