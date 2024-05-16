@@ -4,7 +4,7 @@ title: Walkers on Graphs
 description: A program in C to simulate walks on city networks
 img: assets/img/walkers_together.jpg
 importance: 1
-category: Collaborations
+category: I Supervised
 related_publications: false
 ---
 

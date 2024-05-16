@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ebreuil church weather data
-description: A new symbolic regression approach to study finance and traffic datasets
+description: A data analysis of the weather impact on paintings 
 img: assets/img/ebreuil.jpg
-importance: 1
+importance: 2
 category: Collaborations
 ---
 
