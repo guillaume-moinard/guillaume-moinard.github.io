@@ -4,7 +4,7 @@ title: Linkstream efficiency
 description: A project by L3 students to measure impact of attacks on networks
 img: assets/img/parisdiscr.png
 importance: 2
-category: I Supervised
+category: Collaborations
 ---
 
 ## A glimpse at their work 📖
