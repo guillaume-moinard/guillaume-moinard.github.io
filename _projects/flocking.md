@@ -2,7 +2,7 @@
 layout: page
 title: Robust Flocking of Protesters
 description: Model social movements
-img: assets/pdf/graph.pdf
+img: assets/img/graph.jpg
 importance: 2
 category: Social Movements
 ---
