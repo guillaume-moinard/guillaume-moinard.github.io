@@ -4,7 +4,7 @@ title: MvSR
 description: A new symbolic regression approach to study finance and traffic datasets
 img: assets/img/publication_preview/market-1.jpg
 importance: 1
-category: Social Movements
+category: I Supervised
 related_publications: true
 ---
 
