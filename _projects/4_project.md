@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internship
+title: My Internship
 description: Preliminaries to studying new form of protests
 img: assets/img/parisdiscr.png
 importance: 3

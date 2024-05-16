@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flocking on street networks
+title: Robuts Flocking of Protesters on Street Networks
 description: Model social movements
 img: assets/img/DR.jpg
 importance: 2
