@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Robuts Flocking of Protesters on Street Networks
+title: Robust Flocking of Protesters
 description: Model social movements
-img: assets/img/DR.jpg
+img: assets/pdf/graph.pdf
 importance: 2
 category: Social Movements
-giscus_comments: true
 ---
 
 We study what tactics walkers should follow in order to gather *and* subsequently move together on a street network. This describes events such as protests.
