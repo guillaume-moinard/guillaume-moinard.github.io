@@ -3,7 +3,7 @@
 layout: page
 title: Protests on Graphs
 description: A program in C to simulate walks on city networks
-img: assets/img/publication_preview/market-1.jpg
+img: assets/img/walkers_together.jpg
 importance: 1
 category: Collaborations
 ---

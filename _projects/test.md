@@ -1,20 +1,14 @@
 ---
 layout: page
-title: MvSR2
-description: A new symbolic regression approach to study finance and traffic datasets
-img: assets/img/publication_preview/market-1.jpg
+title: Protests on Graphs
+description: A program in C to simulate walks on city networks
+img: assets/img/walkers_together.jpg
 importance: 1
 category: Collaborations
-related_publications: true
+related_publications: false
 ---
 
-## MvSR
-The Multi-View Symbolic Regression is a new approach to symbolic regression algorithms.
 
-
-
-## Econophysics
-
-We apply this algorithm to finance data. The goal is to propose better parametric functions than those proposed in the field of econophysics.
-
+## The POG project
+The work on this companion site : https://k-avi.github.io/protesting_on_graphs/
 
