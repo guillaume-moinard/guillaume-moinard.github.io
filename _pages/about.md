@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 ## Hi folks, and welcome ! 🦊
 
-I am doing a PhD in computer science at Sorbonne University, under the supervision of [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/) with the [Complex Networks](https://www-complexnetworks.lip6.fr/~latapy/) team.
+I am doing a PhD in computer science at Sorbonne University, under the supervision of [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/) with the [Complex Networks](https://www.complexnetworks.fr/) team.
 This website is dedicated to my work on **science, social movements**, and all sorts of ideas !
 
 > Hold on ! "*Social movements*" and "*Science*" ? What's the link ?
