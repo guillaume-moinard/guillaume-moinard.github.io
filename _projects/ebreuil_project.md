@@ -2,7 +2,7 @@
 layout: page
 title: Ebreuil church weather data
 description: A data analysis of the weather impact on paintings 
-img: assets/img/ebreuil.jpg
+img: assets/img/temp_hum.png
 importance: 2
 category: Collaborations
 ---
