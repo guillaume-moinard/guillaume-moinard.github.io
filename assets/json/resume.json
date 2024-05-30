@@ -71,10 +71,10 @@
     "icon": "fa-solid fa-hashtag",
     "keywords": [
             "Python",
-            "C",
-            "Shell",
-            "LateX",
-            "Linux"
+            "C/C++",
+            "Bash/Shell",
+            "LaTeX",
+            "GNU/Linux"
         ]
   }],
   "languages": [
