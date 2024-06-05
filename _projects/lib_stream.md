@@ -2,7 +2,7 @@
 layout: page
 title: Stream Graph Library
 description: A python library to handle stream Graphs
-img: assets/img/walkers_together.jpg
+img: assets/img/flot.jpg
 importance: 1
 category: I Supervised
 related_publications: false
