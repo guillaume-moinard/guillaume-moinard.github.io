@@ -7,6 +7,12 @@ importance: 2
 category: Social Movements
 ---
 
+## What do they do?
+Here is a video of walkers following a tactic on a street network. They align with each others' directions and move together. We color walkers with a same color if they end up in the same group at the end of the run. The size of a node is proportional to the number of walkers on it.
+We only display walkers that end up in the 10 biggest groups.
+
+{% include video.liquid path="assets/video/flocking.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+
 ## Flocking of protesters
 We study what tactics walkers should follow in order to gather *and* subsequently move together on a street network. This describes events such as protests.
 

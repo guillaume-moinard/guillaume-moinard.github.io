@@ -14,9 +14,10 @@
     "endDate": "2025",
     "summary": "I study the dynamics of social movements on complex networks. I use agent-based modeling and graph theory to understand the emergence of collective behaviors.",
     "highlights": [
-      "Flocking on graphs",
-      "Complex networks",
-      "Social mouvements"
+      "Flocking Behavior",
+      "Street Networks",
+      "Complex Systems",
+      "Social Mouvements"
     ]
   }],
   "volunteer": [{
@@ -71,10 +72,10 @@
     "icon": "fa-solid fa-hashtag",
     "keywords": [
             "Python",
-            "C/C++",
-            "Bash/Shell",
+            "C",
+            "Shell",
             "LaTeX",
-            "GNU/Linux"
+            "GNU+Linux"
         ]
   }],
   "languages": [
