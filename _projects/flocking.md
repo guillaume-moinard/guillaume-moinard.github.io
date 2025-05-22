@@ -13,6 +13,9 @@ We only display walkers that end up in the 10 biggest groups.
 
 {% include video.liquid path="assets/video/flocking.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Eqhi-5DVzV4&t=5460s" frameborder="0" allowfullscreen></iframe>
+
 ## Flocking of protesters
 We study what tactics walkers should follow in order to gather *and* subsequently move together on a street network. This describes events such as protests.
 
