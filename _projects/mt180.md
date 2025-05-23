@@ -25,20 +25,7 @@ We study what tactics walkers should follow in order to gather *and* subsequentl
     We get a scatter plot, where the best tactics are those in the upper right corner.
 </div>
 
-
-## Improving the model with better walkers vision
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=H5vgC_kKkEM" frameborder="0" allowfullscreen></iframe>
-
-
-## BeWater
-
 We also use data such as POI, width of streets etc, to gather such walkers on the street network.
 
-Work in progress.
-
 ## Impact on network
-What is the impact on the traffic network?
-
 Work in progress.
