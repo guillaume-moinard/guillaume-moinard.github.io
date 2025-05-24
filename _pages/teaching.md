@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses such as lecture notes and tips for students (or anyone doing research). The complete list of courses I taught is available on [my CV](https://guillaume-moinard.github.io/cv/).
+description: Materials for courses such as lecture notes and tips for students (or anyone doing research). The complete list of courses I taught is available on my cv.
 nav: true
 nav_order: 6
 ---
