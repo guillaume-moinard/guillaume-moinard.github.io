@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Protesters on Networks
+title: Presentation at FRCCS
 description: Modeling social movements
-img: assets/img/graph.jpg
+img: assets/img/FRCCS.png
 importance: 2
 category: Social Movements
 ---
