@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentation at FRCCS
-description: Modeling social movements
+description: Presentation at the First Regional Conference on Critical Social Sciences (FRCCS) in 2025
 img: assets/img/FRCCS.png
 importance: 2
 category: Social Movements
