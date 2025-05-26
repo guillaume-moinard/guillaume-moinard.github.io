@@ -2,7 +2,7 @@
 layout: page
 title: Linkstream efficiency
 description: A project by L3 students to measure impact of attacks on networks
-img: assets/img/aggressive.png
+img: assets/img/aggressive.jpg
 importance: 2
 category: I Supervised
 ---

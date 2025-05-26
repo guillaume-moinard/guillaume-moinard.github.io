@@ -2,7 +2,7 @@
 layout: page
 title: Stream Graph Library
 description: A C library to handle stream Graphs
-img: assets/img/flot.jpg
+img: assets/img/flot.png
 importance: 1
 category: I Supervised
 related_publications: false
