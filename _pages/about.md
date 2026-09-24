@@ -27,7 +27,7 @@ I started research by completing a PhD in computer science at Sorbonne Universit
 
 This website is dedicated to my work on **network science, social movements**, and all sorts of ideas !
 
-> Hold on ! "*Social movements*" and "*Science*" ? Is there the link ?
+> Hold on ! "*Social movements*" and "*Science*" ? Is there a link ?
 
 Yes ! Many actually !
 
@@ -41,4 +41,6 @@ The objective of my thesis is to find the key ingredients for a movement tactic 
 
 ### Money by and for the people ?
 
-I am now postdoctoral researcher at the *Complexity Science Hub* in Vienna. Within the *Digital Currency Ecosystems* research group, I study distributed governance within a decentralized economy: the Ğ1 currency. Among other things I explore how decentralized this ecosystem actually is and whether the *web of trust*, a decentralized identification system, efficiently prevents fraud without preventing newcomers from joining this economic network.
+I am now a postdoctoral researcher at the *Complexity Science Hub* in Vienna. I focus on a new topic: can citizens create and manage a digital currency, without centralized institution and without creating significant inequalities such as those observed for most cryptocurrencies?
+
+Within the *Digital Currency Ecosystems* research group, I study distributed governance within a decentralized economy: the Ğ1 currency. Among other things, I explore how decentralized this ecosystem actually is and whether the *web of trust*, a decentralized identification system, efficiently prevents fraud without preventing newcomers from joining this economic network.
