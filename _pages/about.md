@@ -7,11 +7,11 @@ subtitle: Postdoctoral Researcher in <a href='https://csh.ac.at/guillaume-moinar
 profile:
   align: right
   image: MT180_me_portrait.jpg # path to the image
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Complex Networks Team</p>
-    <p>Office 26-00 / 304</p>
-    <p>Sorbonne Université</p>
+    <p>Digital Currency Ecosystems</p>
+    <p>Office 201</p>
+    <p>Complexity Science Hub</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 ## Hi folks, and welcome ! 🦊
 
-I started research by completing a PhD in computer science at Sorbonne University, under the supervision of [Matthieu Latapy](https://www-complexnetworks.lip6.fr/~latapy/) with the [Complex Networks](https://www.complexnetworks.fr/) team.
+I started research by completing a PhD in computer science at Sorbonne University, under the supervision of Matthieu Latapy with the [Complex Networks](https://www.complexnetworks.fr/) team.
 
 
 This website is dedicated to my work on **network science, social movements**, and all sorts of ideas !
