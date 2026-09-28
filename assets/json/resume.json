@@ -1,18 +1,33 @@
 {
   "basics": {
     "name": "Guillame Moinard",
-      "label": "PhD Student in Computer Science",
+      "label": "Postdoctoral Researcher in Computer Science",
       "image": "",
-      "email": "guill****.moi****@lip6.fr",
+      "email": "moi****@csh.ac.at",
       "summary": ""
   },
-  "work": [{
+  "work": [
+    {
+    "name": "CSH",
+    "position": ""Postdoctoral Researcher",
+    "url": "https://https://csh.ac.at/",
+    "startDate": "2026",
+    "endDate": "2027",
+    "summary": "I study governance within a decentralized economy: the Ğ1 currency. Among other things, I explore how distributed this ecosystem actually is and whether the web of trust, a decentralized identification system, efficiently prevents fraud without preventing newcomers from joining this economic network.",
+    "highlights": [
+      "Economics",
+      "Social Networks",
+      "Complex Systems",
+      "DeFi"
+    ]
+  }
+      {
     "name": "LIP6",
     "position": "Doctorant",
     "url": "https://lip6.fr",
     "startDate": "2022",
-    "endDate": "2025",
-    "summary": "I study the dynamics of social movements on complex networks. I use agent-based modeling and graph theory to understand the emergence of collective behaviors.",
+    "endDate": "2026",
+    "summary": "I studied the dynamics of social movements on complex networks. I use agent-based modeling and graph theory to understand the emergence of collective behaviors.",
     "highlights": [
       "Flocking Behavior",
       "Street Networks",
@@ -91,6 +106,11 @@
     },
     {
       "language": "Italian",
+      "fluency": "Basic",
+      "icon": ""
+      }
+    {
+      "language": "German",
       "fluency": "Basic",
       "icon": ""
       }

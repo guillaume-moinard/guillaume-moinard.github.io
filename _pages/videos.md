@@ -5,7 +5,7 @@ permalink: /videos/
 description: Videos I filmed to present my work.
 nav: true
 nav_order: 3
-display_categories: [My Movies]
+display_categories: [Movies]
 horizontal: false
 ---
 
