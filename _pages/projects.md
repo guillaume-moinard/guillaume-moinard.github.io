@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 nav: true
 nav_order: 4
-display_categories: [Collaborations, I Supervised] #Social Movements, 
+display_categories: [Social Movements, Collaborations, I Supervised] # 
 horizontal: false
 ---
 
