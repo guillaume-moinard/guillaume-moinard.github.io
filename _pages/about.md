@@ -28,7 +28,7 @@ After completing a PhD in computer science at Sorbonne University, under the sup
 
 Well, there is a link! Many actually!
 
-### Protests as a *Gathering Problem*
+### 1. Protests as a *Gathering Problem*
 
 During my PhD, my main interest was an interdisciplinary one: I studied events such as protests or demonstrations as a computer science problem.
 
@@ -36,7 +36,7 @@ Imagine a group of people, scattered over a city. How can they meet? Coordinatin
 
 The objective of my thesis was to find the key ingredients for a movement tactic to ensure that walkers meet in the same place, regardless of their starting positions. I modeled a city as a street network, a graph, and protesters as biased random walkers. I then identified what the best walking rules are for effective gatherings in such context.
 
-### Money by and for the people ?
+### 2. Money by and for the people ?
 
 I am now a postdoctoral researcher at the *Complexity Science Hub* in Vienna. I focus on a new topic: can citizens create and manage a digital currency, without a centralized institution and without creating significant inequalities, such as those observed for most cryptocurrencies?
 

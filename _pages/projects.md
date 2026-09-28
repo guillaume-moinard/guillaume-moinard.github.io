@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: My research projects.
+zsh:1: command not found: q
 nav: true
 nav_order: 4
 display_categories: [Collaborations, I Supervised] #Social Movements, 
