@@ -5,10 +5,9 @@ permalink: /videos/
 description: Videos I filmed to present my work.
 nav: true
 nav_order: 3
-display_categories: [Social Movements]
+display_categories: [My Movies]
 horizontal: false
 ---
-
 
 
 

@@ -4,7 +4,7 @@ title: BeWater, from the street to the theory
 description: Presentation at AAMAS
 img: assets/img/city2drawing.png
 importance: 2
-category: Social Movements
+category: My Movies
 ---
 
 Presentation at the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS) in 2026

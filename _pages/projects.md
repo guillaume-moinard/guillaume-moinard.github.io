@@ -5,7 +5,7 @@ permalink: /projects/
 description: My research projects.
 nav: true
 nav_order: 4
-display_categories: [Social Movements, Collaborations, I Supervised]
+display_categories: [Collaborations, I Supervised] #Social Movements, 
 horizontal: false
 ---
 
