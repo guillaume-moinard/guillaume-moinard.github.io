@@ -2,9 +2,9 @@
 layout: page
 title: Improving Flocking in Networks with Vision
 description: Presentation at Complex Networks 2025
-img: assets/img/city2drawing.png
+img: assets/img/illu_vision.png
 importance: 2
-category: Movies
+category: Social Movements
 ---
 
 Presentation at the 16th Conference on Complex Networks in 2025.

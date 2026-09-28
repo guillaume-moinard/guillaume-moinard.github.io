@@ -4,7 +4,7 @@ title: Presentation at FRCCS
 description: Video presentation of my thesis work
 img: assets/img/FRCCS.png
 importance: 2
-category: My Movies
+category: Social Movements
 ---
 
 Presentation at the First Regional Conference on Complex Systems (FRCCS) in 2025
