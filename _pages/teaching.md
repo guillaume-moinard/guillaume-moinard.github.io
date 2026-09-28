@@ -7,25 +7,25 @@ nav: true
 nav_order: 6
 ---
 
-## Courses 📖
-
-### Classes
-Some material for students following courses I teach :
-- Python : an example of [anki deck](https://ankiweb.net/shared/info/51975584) for revising python
-- Algorithm : A good video on [binary search](https://www.youtube.com/watch?v=hDn8iOc30Tk) that illustrates what I showed in class.
-
-
-### Videos
-- [Computerphile](https://www.youtube.com/@Computerphile), excellent videos on computer science concepts and algorithms
-- [Science Étonnante](https://www.youtube.com/@ScienceEtonnante), french channel on many science topics
+<!-- ## Courses 📖 -->
+<!---->
+<!-- ### Classes -->
+<!-- Some material for students following courses I teach : -->
+<!-- - Python : an example of [anki deck](https://ankiweb.net/shared/info/51975584) for revising python -->
+<!-- - Algorithm : A good video on [binary search](https://www.youtube.com/watch?v=hDn8iOc30Tk) that illustrates what I showed in class. -->
+<!---->
 
 ## Tools 🛠️
 
 A list of some (very) usefull tools both for studying and research. Of course what matters is not to use *those* specific tools. They still might be pleasant work tools for some of you.
 
 ### Workflow
-- [Obsidian](http://obsidian.md/) for note taking
+- [Obsidian](https://obsidian.md/) for note taking
 - [Anki](https://apps.ankiweb.net/) for spaced course learning
+
+### Education channels
+- [Computerphile](https://www.youtube.com/@Computerphile), excellent videos on computer science concepts and algorithms
+- [Science Étonnante](https://www.youtube.com/@ScienceEtonnante), french channel on many science topics
 
 ### Bibliography
 - [Litmaps](https://app.litmaps.co) for visualizing your bibliography
